@@ -1,0 +1,2 @@
+rootProject.name = "Remedies Control"
+include ':app'
